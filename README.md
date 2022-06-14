@@ -6,4 +6,4 @@ Estes são projetos realizados nas plataformas Power Bi, Tableau e Excel, com a 
 
 [Geofusion - Case Teste.zip](https://github.com/maxvsilva/Projetos/files/8655723/Geofusion.-.Case.Teste.zip)
 
-[Processo Seletivo – Analista de Power BI JR.zip](https://github.com/maxvsilva/Projetos/files/8758674/Processo.Seletivo.Analista.de.Power.BI.JR.zip
+[Processo Seletivo – Analista de Power BI JR.zip](https://github.com/maxvsilva/Projetos/files/8758674/Processo.Seletivo.Analista.de.Power.BI.JR.zip)
