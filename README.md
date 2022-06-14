@@ -10,4 +10,4 @@ Estes são projetos realizados nas plataformas Power Bi, Tableau e Excel, com a 
 
 [Desafio Power Bi - Dr Transformação Digital.zip](https://github.com/maxvsilva/Projetos/files/8900707/Desafio.Power.Bi.-.Dr.Transformacao.Digital.zip)
 
-[Desafio Tableau.zip](https://github.com/maxvsilva/Projetos/files/8900711/Desafio.Tableau.zip)
+[Desafio Tableau - Dr Transformação Digital.zip](https://github.com/maxvsilva/Projetos/files/8900725/Desafio.Tableau.-.Dr.Transformacao.Digital.zip)
