@@ -11,3 +11,5 @@ Estes são projetos realizados nas plataformas Power Bi, Tableau e Excel, com a 
 [Desafio Power Bi - Dr Transformação Digital.zip](https://github.com/maxvsilva/Projetos/files/8900707/Desafio.Power.Bi.-.Dr.Transformacao.Digital.zip)
 
 [Desafio Tableau - Dr Transformação Digital.zip](https://github.com/maxvsilva/Projetos/files/8900725/Desafio.Tableau.-.Dr.Transformacao.Digital.zip)
+
+[Teste Analista de Planejamento - Max Vicente da Silva.zip](https://github.com/maxvsilva/Projetos/files/10086933/Teste.Analista.de.Planejamento.-.Max.Vicente.da.Silva.zip)
