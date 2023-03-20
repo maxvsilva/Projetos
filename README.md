@@ -13,3 +13,5 @@ Estes são projetos realizados nas plataformas Power Bi, Tableau e Excel, com a 
 [Processo Seletivo – Analista de Power BI JR.zip](https://github.com/maxvsilva/Projetos/files/8758674/Processo.Seletivo.Analista.de.Power.BI.JR.zip)
 
 [Teste Analista de Planejamento - Max Vicente da Silva.zip](https://github.com/maxvsilva/Projetos/files/10086933/Teste.Analista.de.Planejamento.-.Max.Vicente.da.Silva.zip)
+
+[Desafio_Spark_Max_V_Silva.zip](https://github.com/maxvsilva/Projetos/files/11021087/Desafio_Spark_Max_V_Silva.zip)
